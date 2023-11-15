@@ -1,0 +1,35 @@
+## Potential Questions
+
+- What is regularization? How does it work?
+- Whats the difference between Lasso (L1), ridge (L2) and elastic net regression?
+- How would you deal with lots of features? (High cardinality?)
+- What is overfitting/underfitting? How can you avoid it?
+- What are false positives/false negatives, what are FPR/TPR?
+- What is precision and recall?
+- What is bias and variance?
+- How can you handle missing data?
+- What is the difference between a random forest and decision tree?
+- What is a confusion matrix?
+- What metrics would you use for regression, classification?
+- How can you deal with imbalanced data?
+- What is the difference between supervised and unsupervised learning?
+- Explain logistic regression/Linear regression/decision tree
+- How would you conduct an AB test
+- What is cross validation?
+- What are ensemble methods?
+- How can you reduce the number of features in a dataset?
+- How can  you increase the number of features in a dataset?
+- Why does ML need a lot of data? What happens when we dont have enough?
+- What are some methods to encode text/strings as numbers?
+- How does a model learn during training?
+- What is the curse of dimensionality?
+- What are outliers? How would you deal with outliers?
+- What’s the difference between normalization and standardisation?
+- What is the typical ML lifecycle?
+- Explain KNN
+- Explain K-means clustering
+- Explain PCA
+- Explain Bayes Theorem
+- What is EDA? What are some techniques commonly used throughout EDA?
+- Whats the difference between boosting and bagging?
+- How is an ROC curve calculated? When would you sue one?
